@@ -1,0 +1,6 @@
+.start-page-top, .end-page-top {
+  vertical-align: top;
+  background-image: url("./img/start-bg.png");
+  background-size: cover;
+  height: 100vh;
+}
